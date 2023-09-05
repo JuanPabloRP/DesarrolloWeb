@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  min-height: 6rem;
+  min-height: 5rem;
 }
 
 
